@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 
 
-const FunctionalComponent =(name, age, company, setName)=>{
+const FunctionalComponent =({name, age, company, setName})=>{
     // 1) const FunctionalComponent =(props)=>{
 // function FunctionalComponent(){
     const [count, setCount] = useState(0);

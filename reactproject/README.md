@@ -86,3 +86,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
         >> To transfer data from one component to another we have props
         >> Parent Component -----Props ------> Child Component
         <FunctionalComponent name="Akshay" age= {27}/>
+
+
+## Pakage Version :
+    1.0.3
+    >> 2 : bug fixed
+    >> 0 : updates
+    >> 1 : Breaking Changes( new Changes)
+
+
+## Routing
+>> Browser Router
+    >> Routes
+        >> Route (n- num of routes)
+
+## Layouts/ HOC(High order Component)\
+    >>
